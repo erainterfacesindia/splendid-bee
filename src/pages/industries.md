@@ -82,7 +82,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/healthcare.jpg
-      - title: lorem-ipsum
+      - title: RECRUITMENT
         title_align: left
         content_align: left
         actions: []
