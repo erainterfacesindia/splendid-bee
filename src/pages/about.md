@@ -136,7 +136,7 @@ sections:
     actions:
       - label: Compare Plans
         url: /pricing
-        style: primary
+        style: secondary
         has_icon: true
     align: left
     padding_top: medium
