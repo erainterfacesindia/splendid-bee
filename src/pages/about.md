@@ -37,7 +37,7 @@ sections:
             icon_position: right
         actions_align: left
         actions_width: auto
-        subtitle: Iterate Design
+        subtitle: ITERATE DESIGN
         content: |
           We always start with people. Business is driven by ...
       - title: Some City
