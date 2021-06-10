@@ -10,7 +10,7 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: Section Title One
+      - title: What we are
         subtitle: Breaking Conventional Approaches and Establishing a New ERA.
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
