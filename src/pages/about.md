@@ -69,7 +69,7 @@ sections:
             icon_position: right
         actions_align: left
         actions_width: auto
-        subtitle: Our employees implement best practices and meet clients’ needs ...
+        subtitle: Optimize Deliver
     grid_cols: three
     grid_gap_horiz: large
     grid_gap_vert: large
