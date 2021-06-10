@@ -25,7 +25,7 @@ sections:
           allowfullscreen></iframe>
         align: left
   - type: grid_section
-    title: Our Officess
+    title: Our Process
     grid_items:
       - title: Some City
         content: >-
