@@ -23,7 +23,7 @@ sections:
     background_color: secondary
     background_image_opacity: 1
     background_image_repeat: no-repeat
-    image: images/about-2.jpg
+    image: images/banner.gif
   - subtitle: solutions we provide
     actions: []
     grid_items:
