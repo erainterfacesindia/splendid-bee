@@ -1,5 +1,4 @@
 ---
-title: Blog
 sections:
   - type: hero_section
     title: Blog
@@ -39,9 +38,7 @@ sections:
     padding_bottom: medium
     has_border: true
     background_color: secondary
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
-    actions: []
+  - actions: []
     blog_feed_cols: three
     enable_cards: false
     show_recent: false
