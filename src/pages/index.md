@@ -115,7 +115,6 @@ sections:
     features:
       - title: 'Next ERA Of Your Business, Start Here.'
         subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
-        image: images/call back.png
         image_alt: Brandon Guidelines
         media_position: right
         media_width: thirty-three
