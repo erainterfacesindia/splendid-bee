@@ -3,7 +3,9 @@ title: About
 sections:
   - type: hero_section
     title: About
-    subtitle: About Page Demo
+    subtitle: >-
+      Designing your business to stay relevant with the digital era using the
+      design thinking process and data-driven analytics
     align: center
     background_color: primary
   - type: features_section
