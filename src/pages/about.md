@@ -2,7 +2,7 @@
 title: About
 sections:
   - type: hero_section
-    title: About
+    title: About Company
     subtitle: >-
       Designing your business to stay relevant with the digital era using the
       design thinking process and data-driven analytics
