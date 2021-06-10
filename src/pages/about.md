@@ -77,6 +77,9 @@ sections:
     has_border: false
     background_color: none
     title: Our Plan & Working Style
+    subtitle: >-
+      Discover the steps we follow to ensure that every project we deliver is a
+      success
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
