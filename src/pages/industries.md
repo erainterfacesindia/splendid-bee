@@ -111,13 +111,6 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - type: features_section
-    title: About Us
-    subtitle: what we are
-    features: []
-    feature_padding_vert: large
-    align: center
-    background_color: secondary
-  - type: features_section
     features:
       - title: 'Next ERA Of Your Business, Start Here.'
         subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
