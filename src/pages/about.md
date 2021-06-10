@@ -16,7 +16,7 @@ sections:
           fringilla, fringilla.
         image_alt: People in conversation in the office lounge area
         media_position: top
-        media_width: fifty
+        media_width: sixty
         video_embed_html: >-
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/brNzPyCtiyA" title="YouTube video
