@@ -11,7 +11,7 @@ sections:
     media_width: fifty
     align: center
     padding_top: medium
-    padding_bottom: large
+    padding_bottom: medium
     background_color: primary
     background_image_opacity: 1
     background_image_repeat: no-repeat
