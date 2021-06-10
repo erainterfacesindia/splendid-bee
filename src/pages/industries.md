@@ -70,7 +70,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-    title: Services We Offer
   - type: features_section
     title: About Us
     subtitle: what we are
