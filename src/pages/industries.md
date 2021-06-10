@@ -23,7 +23,6 @@ sections:
     background_color: primary
     background_image_opacity: 1
     background_image_repeat: no-repeat
-    image: images/ezgif.com-gif-maker.gif
   - subtitle: solutions we provide
     actions: []
     grid_items:
