@@ -84,7 +84,7 @@ sections:
       success
   - actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Our Mission
         subtitle: lorem-ipsum
         title_align: left
         content: >-
