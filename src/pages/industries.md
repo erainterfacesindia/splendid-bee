@@ -84,7 +84,6 @@ sections:
         type: grid_item
         image: images/healthcare.jpg
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         title_align: left
         content_align: left
         actions: []
