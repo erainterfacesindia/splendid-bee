@@ -26,7 +26,7 @@ sections:
         align: left
   - type: grid_section
     grid_items:
-      - title: 01...
+      - title: ' Step 01...'
         content_align: left
         actions:
           - label: Get Directions
