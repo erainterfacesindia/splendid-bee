@@ -137,6 +137,7 @@ sections:
       - label: Compare Plans
         url: /pricing
         style: primary
+        has_icon: true
     align: left
     padding_top: medium
     padding_bottom: medium
