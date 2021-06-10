@@ -8,9 +8,6 @@ sections:
       ensure its customers stay relevant in these progressive and dynamic market
       conditions.
     actions:
-      - label: Try Free
-        url: /pricing
-        style: primary
       - label: Learn More
         url: /features
         style: secondary
