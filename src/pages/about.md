@@ -136,7 +136,7 @@ sections:
     actions:
       - label: Call Us Now
         url: /pricing
-        style: secondary
+        style: primary
         has_icon: true
     align: left
     padding_top: medium
