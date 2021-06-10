@@ -86,14 +86,15 @@ sections:
     grid_items:
       - title: Our Mission
         title_align: left
-        content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        content: |+
+          Lorem ipsum dolor sit amet, 
 
+          **consectetur adipiscing elit**, 
 
-          *   Lorem ipsum
+          sed do eiusmod tempor incididunt
 
-          *   dolor sit amet
+          ut labore et dolore magna aliqua.
+
         content_align: left
         actions: []
         actions_align: left
