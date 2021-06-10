@@ -39,7 +39,7 @@
         "secondary_nav_links": [
             {
                 "label": "Contact Us",
-                "url": "/pricing",
+                "url": "/",
                 "style": "primary"
             }
         ],
