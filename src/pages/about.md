@@ -80,8 +80,7 @@ sections:
     subtitle: >-
       Discover the steps we follow to ensure that every project we deliver is a
       success
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     actions: []
     grid_items:
       - title: lorem-ipsum
