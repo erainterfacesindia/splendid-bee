@@ -53,6 +53,7 @@ sections:
         actions_align: left
         actions_width: auto
         subtitle: VALIDATE DEVELOP
+        title: Step 01...
       - title: Some City
         content: >-
           1234 Some St.<br/> Some City, ST 12345<br/>
