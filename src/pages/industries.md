@@ -42,7 +42,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/internship 2.png
+        image: images/hospital.jpg
       - title: Recruitment
         title_align: left
         content_align: left
