@@ -17,6 +17,12 @@ sections:
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
+        video_embed_html: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/brNzPyCtiyA" title="YouTube video
+          player" frameborder="0" allow="accelerometer; autoplay;
+          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
   - type: grid_section
     title: Our Officess
     grid_items:
