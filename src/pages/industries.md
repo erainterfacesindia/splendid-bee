@@ -3,10 +3,8 @@ title: Home
 sections:
   - type: hero_section
     title: Industries we serve
-    content: >
-      ERA Interfaces wants to provide smart and proactive digital solutions to
-      ensure its customers stay relevant in these progressive and dynamic market
-      conditions.
+    content: |
+      Industries we serve 
     actions: []
     image_alt: Hero section placeholder image
     media_position: left
