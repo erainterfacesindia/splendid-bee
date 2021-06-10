@@ -15,8 +15,7 @@ sections:
     background_color: primary
     background_image_opacity: 1
     background_image_repeat: no-repeat
-  - subtitle: solutions we provide
-    actions: []
+  - actions: []
     grid_items:
       - title: Education
         title_align: left
