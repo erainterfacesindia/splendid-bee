@@ -134,7 +134,7 @@ sections:
     title: This is a Call to Action
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
-      - label: Compare Plans
+      - label: Call Us Now
         url: /pricing
         style: secondary
         has_icon: true
