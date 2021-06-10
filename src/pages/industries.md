@@ -113,29 +113,7 @@ sections:
   - type: features_section
     title: About Us
     subtitle: what we are
-    features:
-      - title: Explore What we are
-        subtitle: >-
-          We are on a mission to empower each organization and individuals to
-          self sustain through our range of services and product offerings
-        content: |+
-          Breaking Conventional Approaches and Establishing a New ERA
-
-          *   Lorem ipsum
-
-          *   dolor sit ametz
-
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/about.png
-        image_alt: Feature 1 placeholder image
-        media_position: right
-        media_width: fifty
+    features: []
     feature_padding_vert: large
     align: center
     background_color: secondary
