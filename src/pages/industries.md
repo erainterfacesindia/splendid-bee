@@ -69,7 +69,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/ecommerce.jpg
-      - title: lorem-ipsum
+      - title: HEALTH CARE
         title_align: left
         content_align: left
         actions: []
