@@ -75,7 +75,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     has_border: false
-    background_color: none
+    background_color: secondary
     title: Our Plan & Working Style
     subtitle: >-
       Discover the steps we follow to ensure that every project we deliver is a
