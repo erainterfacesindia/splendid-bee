@@ -17,7 +17,7 @@ sections:
     background_image_repeat: no-repeat
   - actions: []
     grid_items:
-      - title: Education
+      - title: DIGITAL MARKETING
         title_align: left
         content_align: left
         actions: []
