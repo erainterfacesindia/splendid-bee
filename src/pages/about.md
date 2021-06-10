@@ -40,8 +40,7 @@ sections:
         subtitle: ITERATE DESIGN
         content: |
           We always start with people. Business is driven by ...
-      - title: Some City
-        content: |
+      - content: |
           This is where we bring the design vision to ..
         content_align: left
         actions:
