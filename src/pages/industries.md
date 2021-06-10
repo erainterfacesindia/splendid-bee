@@ -43,7 +43,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/hospital.jpg
-      - title: Recruitment
+      - title: EDUCATION
         title_align: left
         content_align: left
         actions: []
