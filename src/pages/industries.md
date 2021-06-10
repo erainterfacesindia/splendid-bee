@@ -56,7 +56,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/education.jpg
-      - title: lorem-ipsum
+      - title: E-COMMERCE
         title_align: left
         content_align: left
         actions: []
