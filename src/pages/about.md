@@ -129,6 +129,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/Group 2172.svg
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
