@@ -117,7 +117,7 @@ sections:
         type: grid_item
         image: images/Group 2172.svg
     grid_cols: two
-    grid_gap_vert: small
+    grid_gap_vert: large
     grid_gap_horiz: small
     enable_cards: false
     align: center
