@@ -21,7 +21,7 @@ sections:
     padding_bottom: large
     has_border: true
   - type: form_section
-    title: For more info
+    title: Subscribe Our Latest Blogs
     title_align: center
     content_align: center
     form_position: bottom
