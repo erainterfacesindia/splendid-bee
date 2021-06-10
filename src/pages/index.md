@@ -23,7 +23,7 @@ sections:
     background_color: primary
     background_image_opacity: 1
     background_image_repeat: no-repeat
-    image: images/banner.gif
+    image: images/surge_monitor_800x600.gif
   - subtitle: solutions we provide
     actions: []
     grid_items:
