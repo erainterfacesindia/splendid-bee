@@ -150,7 +150,7 @@ sections:
         type: feature
         image: images/service_digipedagogy.jpg
   - type: cta_section
-    title: This is a Call to Action
+    title: 'Next ERA Of Your Business, Start Here.'
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
       - label: Call us Now
