@@ -107,7 +107,6 @@ sections:
         type: grid_item
         image: images/scientific-tomato.svg
       - title: Our Vision
-        subtitle: lorem-ipsum
         title_align: left
         content: |+
           Lorem ipsum dolor sit amet, 
