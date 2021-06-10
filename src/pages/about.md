@@ -109,7 +109,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/scientific-tomato.svg
-      - title: lorem-ipsum
+      - title: Our Vision
         subtitle: lorem-ipsum
         title_align: left
         content: >-
