@@ -11,7 +11,7 @@ sections:
       - label: Explore More
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: 0ur Services
         url: /features
         style: secondary
     image_alt: Hero section placeholder image
