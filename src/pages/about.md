@@ -38,6 +38,8 @@ sections:
         actions_align: left
         actions_width: auto
         subtitle: Iterate Design
+        content: |
+          We always start with people. Business is driven by ...
       - title: Some City
         content: >-
           1234 Some St.<br/> Some City, ST 12345<br/>
