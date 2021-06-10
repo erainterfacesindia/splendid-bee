@@ -23,7 +23,7 @@ sections:
           player" frameborder="0" allow="accelerometer; autoplay;
           clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe>
-        align: center
+        align: left
   - type: grid_section
     title: Our Officess
     grid_items:
