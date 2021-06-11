@@ -139,7 +139,8 @@
                 "has_icon": true,
                 "icon": "twitter",
                 "icon_position": "center",
-                "new_window": true
+                "new_window": true,
+                "label": "Instagram"
             },
             {
                 "label": "GitHub",
