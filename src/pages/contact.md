@@ -13,7 +13,7 @@ sections:
     background_color: none
   - type: grid_section
     grid_items:
-      - title: Email Us On
+      - title: Email
         title_align: center
         content: |
           <connect@erainterfaces.com>
