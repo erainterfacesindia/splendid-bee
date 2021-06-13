@@ -37,7 +37,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Other Queries
+      - title: Address
         title_align: center
         content: |
           \#6, Daddys Southberg, Kammasandra,
