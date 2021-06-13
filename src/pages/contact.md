@@ -15,9 +15,8 @@ sections:
     grid_items:
       - title: Partnering and Sponsorships
         title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam.
+        content: |
+          <connect@erainterfaces.com>
         content_align: center
         actions: []
         actions_align: center
