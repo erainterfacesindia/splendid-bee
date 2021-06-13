@@ -41,9 +41,10 @@ sections:
         image_has_padding: true
       - title: Other Queries
         title_align: center
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel.
+        content: |
+          \#6, Daddys Southberg, Kammasandra,
+          Electronic City, Bengaluru,
+          Karnataka 560100
         content_align: center
         actions: []
         actions_align: center
