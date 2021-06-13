@@ -19,13 +19,7 @@ sections:
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam.
         content_align: center
-        actions:
-          - label: Get Support
-            url: /general-enquiries
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         actions_align: center
         image: images/email.svg
         image_alt: Partnering and sponsorships icon
