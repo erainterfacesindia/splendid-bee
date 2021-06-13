@@ -28,9 +28,8 @@ sections:
         image_has_padding: true
       - title: Contact Number
         title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla.
+        content: |
+          [+91 9686653545](tel:9686653545)
         content_align: center
         actions: []
         actions_align: center
