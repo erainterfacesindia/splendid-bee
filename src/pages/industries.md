@@ -15,6 +15,7 @@ sections:
     background_color: none
     background_image_opacity: 1
     background_image_repeat: no-repeat
+    background_image: images/image_processing20191007-4694-5gw7le.gif
   - actions: []
     grid_items:
       - title: DIGITAL MARKETING
