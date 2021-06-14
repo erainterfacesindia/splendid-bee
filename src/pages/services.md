@@ -5,6 +5,7 @@ sections:
     title: Services we provide
     subtitle: Features Page Demo
     background_color: primary
+    background_image_opacity: 0.2
   - type: features_section
     features:
       - title: Web Development
