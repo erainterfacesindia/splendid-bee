@@ -21,6 +21,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: cta_section
+    background_image: images/famous-primrose.gif
   - type: features_section
     features:
       - title: Web Development
