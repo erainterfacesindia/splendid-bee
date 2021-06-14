@@ -8,6 +8,7 @@ sections:
     background_image_opacity: 0
     background_image_size: auto
     background_image_position: center top
+    background_image: images/neat-triceratops.gif
   - type: features_section
     features:
       - title: Web Development
