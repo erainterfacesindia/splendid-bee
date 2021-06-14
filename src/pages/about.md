@@ -9,7 +9,7 @@ sections:
     align: center
     background_color: none
     background_image: images/hello_there.gif
-    background_image_position: center top
+    background_image_position: left top
     background_image_size: cover
   - type: features_section
     features:
