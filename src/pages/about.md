@@ -7,7 +7,7 @@ sections:
       Designing your business to stay relevant with the digital era using the
       design thinking process and data-driven analytics
     align: center
-    background_color: primary
+    background_color: none
     background_image: images/hello_there.gif
   - type: features_section
     features:
