@@ -57,7 +57,7 @@
         "primary_nav_links": [
             {
                 "label": "Services",
-                "url": "/about",
+                "url": "/services",
                 "style": "link"
             },
             {
