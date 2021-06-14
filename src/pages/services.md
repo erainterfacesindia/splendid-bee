@@ -7,8 +7,7 @@ sections:
     background_color: primary
     background_image_opacity: 0.2
     background_image: images/ezgif.com-gif-maker (1).gif
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
     align: center
