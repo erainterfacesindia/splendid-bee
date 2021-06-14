@@ -68,6 +68,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    image: images/newsguy-shot003.gif
 seo:
   title: Blog
   description: This is the blog page
