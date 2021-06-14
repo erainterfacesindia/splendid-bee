@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Services we provide
     subtitle: Features Page Demo
-    background_color: primary
+    background_color: none
     background_image_opacity: 0.2
     background_image: images/futuristic-velociraptor.gif
   - actions: []
