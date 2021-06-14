@@ -6,7 +6,7 @@ sections:
     subtitle: Features Page Demo
     background_color: none
     background_image_opacity: 0.2
-    background_image: images/futuristic-velociraptor.gif
+    background_image: images/smiling-elm.gif
   - actions: []
     actions_position: bottom
     actions_width: fourty
