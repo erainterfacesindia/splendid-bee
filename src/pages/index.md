@@ -9,7 +9,7 @@ sections:
       conditions.
     actions:
       - label: Explore More
-        url: /
+        url: /about
         style: primary
       - label: 0ur Services
         url: /features
