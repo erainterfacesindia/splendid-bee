@@ -12,7 +12,7 @@ sections:
     align: center
     padding_top: small
     padding_bottom: small
-    background_color: primary
+    background_color: none
     background_image_opacity: 1
     background_image_repeat: no-repeat
   - actions: []
