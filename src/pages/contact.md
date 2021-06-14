@@ -59,6 +59,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
+    background_image: images/contact (2).gif
 seo:
   title: Contact
   description: This is the contact page
