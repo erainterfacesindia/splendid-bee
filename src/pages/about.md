@@ -9,6 +9,7 @@ sections:
     align: center
     background_color: none
     background_image: images/hello_there.gif
+    background_image_position: center top
   - type: features_section
     features:
       - title: What we are
