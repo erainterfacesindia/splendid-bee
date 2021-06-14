@@ -7,6 +7,7 @@ sections:
     background_color: none
     background_image_opacity: 0.2
     background_image: images/smiling-elm.gif
+    background_image_size: cover
   - actions: []
     actions_position: bottom
     actions_width: fourty
