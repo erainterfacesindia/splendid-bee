@@ -119,7 +119,7 @@ sections:
         media_width: thirty-three
         actions:
           - label: Call Us Now
-            url: '#'
+            url: /contact
             style: primary
             has_icon: false
             icon: arrow-left
