@@ -6,7 +6,7 @@ sections:
     subtitle: Features Page Demo
     background_color: none
     background_image_opacity: 0
-    background_image_size: auto
+    background_image_size: cover
     background_image_position: center top
     background_image: images/neat-triceratops.gif
     padding_bottom: large
