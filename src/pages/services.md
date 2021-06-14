@@ -7,7 +7,7 @@ sections:
     background_color: primary
     background_image_opacity: 0.2
     background_image: images/ezgif.com-gif-maker (1).gif
-  - title: lorem-ipsum
+  - title: a
     actions: []
     actions_position: bottom
     actions_width: fourty
