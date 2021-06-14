@@ -6,7 +6,6 @@ sections:
     subtitle: Features Page Demo
     background_color: primary
     background_image_opacity: 0.2
-    background_image: images/smiling-elm.gif
     background_image_size: cover
   - actions: []
     actions_position: bottom
