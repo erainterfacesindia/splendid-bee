@@ -24,7 +24,7 @@ sections:
     title_align: center
     content_align: center
     form_position: bottom
-    form_layout: stacked
+    form_layout: inline
     form_id: subscribeForm
     form_action: /thank-you
     form_fields:
