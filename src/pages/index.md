@@ -12,7 +12,7 @@ sections:
         url: /about
         style: primary
       - label: 0ur Services
-        url: /
+        url: /services
         style: secondary
     image_alt: Hero section placeholder image
     media_position: left
