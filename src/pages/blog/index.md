@@ -2,7 +2,7 @@
 sections:
   - type: hero_section
     title: Blog
-    subtitle: Our Latest Blogs
+    subtitle: 'Our Team Moves Faster, Keeping you Current on What''s Hot'
     align: center
     padding_top: medium
     padding_bottom: none
