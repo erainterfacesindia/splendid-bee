@@ -8,7 +8,7 @@ sections:
       design thinking process and data-driven analytics
     align: center
     background_color: none
-    background_image: images/hello_there.gif
+    background_image: images/about.gif
     background_image_position: left top
     background_image_size: cover
   - type: features_section
