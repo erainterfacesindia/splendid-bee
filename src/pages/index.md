@@ -75,7 +75,7 @@ sections:
         title_align: left
         content_align: left
         actions:
-          - label: l
+          - label: 'Read '
             url: '#'
             style: primary
             has_icon: false
