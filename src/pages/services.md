@@ -167,7 +167,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-    actions_position: right
+    actions_position: bottom
     align: center
     padding_top: medium
     padding_bottom: medium
