@@ -83,7 +83,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/svpcet-370x370.jpeg
-        title: 'SVCET COLLEGE OF ENGINEERING '
+        title: SVCET COLLEGE OF ENGINEERING & TECHNOLOGY
       - title: RECRUITMENT
         title_align: left
         content_align: left
