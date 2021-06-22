@@ -70,7 +70,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/ecommerce.jpg
+        image: images/cmrtc-370x370.jpeg
       - title: HEALTH CARE
         title_align: left
         content_align: left
