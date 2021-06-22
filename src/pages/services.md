@@ -30,14 +30,14 @@ sections:
           fringilla, fringilla.
         media_position: left
         media_width: fifty
-        image: images/service_application.jpg
+        image: images/service_application.png
       - title: Digital Marketing
         subtitle: 'Donec nisl ligula, cursus id molestie vel. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
-        image: images/service_Digital Marketing.jpg
+        image: images/service_Digital Marketing.png
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
