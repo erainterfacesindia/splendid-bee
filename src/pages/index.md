@@ -116,13 +116,8 @@ sections:
         subtitle: >-
           We are on a mission to empower each organization and individuals to
           self sustain through our range of services and product offerings
-        content: |+
+        content: |
           Breaking Conventional Approaches and Establishing a New ERA
-
-          *   Lorem ipsum
-
-          *   dolor sit ametz
-
         actions:
           - label: Learn More
             url: /about
