@@ -157,7 +157,16 @@ sections:
   - type: cta_section
     title: 'Next ERA Of Your Business, Start Here.'
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
     actions_position: right
     align: center
     padding_top: medium
