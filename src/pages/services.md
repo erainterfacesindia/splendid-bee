@@ -158,7 +158,7 @@ sections:
     title: 'Next ERA Of Your Business, Start Here.'
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
-      - label: lorem-ipsum
+      - label: Call Us Know
         url: '#'
         style: primary
         has_icon: false
