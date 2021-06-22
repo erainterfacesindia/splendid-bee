@@ -19,7 +19,7 @@ sections:
     background_image_position: center center
   - actions: []
     grid_items:
-      - title: Amara Hospital
+      - title: AMARA HOSPITAL
         title_align: left
         content_align: left
         actions: []
