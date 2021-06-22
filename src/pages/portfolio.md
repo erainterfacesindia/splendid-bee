@@ -57,7 +57,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/education.jpg
+        image: images/vsbec-370x370.jpeg
       - title: E-COMMERCE
         title_align: left
         content_align: left
