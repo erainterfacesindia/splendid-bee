@@ -70,6 +70,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/cmrtc-370x370.jpeg
+        title: CMRTC ENGINEERING COLLEGE
       - title_align: left
         content_align: left
         actions: []
