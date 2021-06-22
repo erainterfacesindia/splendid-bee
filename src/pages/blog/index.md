@@ -38,7 +38,7 @@ sections:
     padding_bottom: medium
     has_border: true
     background_color: secondary
-  - title: lorem-ipsum
+  - title: This is a Call to Action
     content: >-
       ## Lorem ipsum
 
