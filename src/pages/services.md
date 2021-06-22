@@ -136,7 +136,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: images/service_open_source.jpg
+        image: images/service_open_source.png
       - title: DIGIPEDAGOGY
         subtitle: lorem-ipsum
         content: >
