@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Our Works
     content: |
-      Industries we serve 
+      Our Works
     actions: []
     image_alt: Hero section placeholder image
     media_position: left
