@@ -5,7 +5,7 @@ sections:
     title: Services we provide
     subtitle: Features Page Demo
     background_color: secondary
-    background_image_opacity: 0.1
+    background_image_opacity: 0
     background_image_size: cover
     background_image_position: center center
     background_image: images/neat-triceratops.gif
