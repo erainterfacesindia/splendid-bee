@@ -96,7 +96,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/recruitment1.jpg
+        image: images/ksrct-370x370.jpeg
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
