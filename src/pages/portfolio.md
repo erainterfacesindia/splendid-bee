@@ -83,7 +83,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/svpcet-370x370.jpeg
-        title: 'SVCET '
+        title: 'SVCET COLLEGE OF '
       - title: RECRUITMENT
         title_align: left
         content_align: left
