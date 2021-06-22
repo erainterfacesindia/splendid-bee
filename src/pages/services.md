@@ -169,7 +169,7 @@ sections:
         type: action
     actions_position: bottom
     align: center
-    padding_top: medium
+    padding_top: small
     padding_bottom: medium
     has_border: false
     background_color: primary
