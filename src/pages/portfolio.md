@@ -57,7 +57,6 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/vsbec-370x370.jpeg
-        subtitle: VSB ENGINEERING COLLEGE
       - title: E-COMMERCE
         title_align: left
         content_align: left
