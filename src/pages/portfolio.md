@@ -13,7 +13,7 @@ sections:
     padding_top: small
     padding_bottom: large
     background_color: none
-    background_image_opacity: 0
+    background_image_opacity: 10
     background_image_repeat: no-repeat
     background_image: images/majestic-onion.gif
     background_image_position: center center
