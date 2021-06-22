@@ -71,7 +71,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/cmrtc-370x370.jpeg
-      - title: HEALTH CARE
+      - title: Sri Venkateswara College of Engineering and Technology
         title_align: left
         content_align: left
         actions: []
