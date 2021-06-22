@@ -30,7 +30,7 @@ sections:
           fringilla, fringilla.
         media_position: left
         media_width: fifty
-        image: images/service_application.png
+        image: images/superb-giraffe.png
       - title: Digital Marketing
         subtitle: 'Donec nisl ligula, cursus id molestie vel. '
         content: >-
