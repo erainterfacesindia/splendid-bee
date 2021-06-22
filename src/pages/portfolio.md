@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: In
+    title: Our Works
     content: |
       Industries we serve 
     actions: []
