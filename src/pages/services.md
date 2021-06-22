@@ -157,10 +157,7 @@ sections:
   - type: cta_section
     title: 'Next ERA Of Your Business, Start Here.'
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
-    actions:
-      - label: Call us Now
-        url: /pricing
-        style: primary
+    actions: []
     actions_position: right
     align: center
     padding_top: medium
