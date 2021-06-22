@@ -170,7 +170,7 @@ sections:
     actions_position: bottom
     align: center
     padding_top: small
-    padding_bottom: medium
+    padding_bottom: small
     has_border: false
     background_color: primary
 seo:
