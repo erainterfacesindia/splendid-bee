@@ -31,7 +31,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/Marketing.jpg
+        image: images/amara_project-1536x1025-1-370x370.jpeg
       - title: HOSPITALITY
         title_align: left
         content_align: left
