@@ -130,6 +130,7 @@ sections:
             type: action
     feature_padding_vert: small
     background_color: primary
+    align: center
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
