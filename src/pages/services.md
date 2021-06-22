@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Services we provide
     subtitle: Features Page Demo
-    background_color: secondary
+    background_color: none
     background_image_opacity: 0
     background_image_size: cover
     background_image_position: center center
