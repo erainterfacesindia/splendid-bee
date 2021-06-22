@@ -84,7 +84,7 @@ sections:
         type: grid_item
         image: images/svpcet-370x370.jpeg
         title: SVCET COLLEGE OF ENGINEERING & TECHNOLOGY
-      - title: K.S.Rangasamy College of Technology
+      - title: K.S.R College of Technology
         title_align: left
         content_align: left
         actions: []
