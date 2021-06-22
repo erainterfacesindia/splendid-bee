@@ -45,8 +45,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/udf-1536x1025-1-370x370.jpeg
-      - title: EDUCATION
-        title_align: left
+      - title_align: left
         content_align: left
         actions: []
         actions_align: left
