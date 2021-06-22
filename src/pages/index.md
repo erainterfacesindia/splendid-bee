@@ -31,7 +31,7 @@ sections:
         title_align: left
         content_align: left
         actions:
-          - label: Read
+          - label: 'Read '
             url: '#'
             style: primary
             has_icon: false
